@@ -1,0 +1,32 @@
+@font-face {
+	font-family: "muli";
+	src: url("../Font/Muli/muli/Muli.ttf");
+}
+@font-face {
+	font-family: "mulibold";
+	src: url("../Font/Muli/muli/Muli_Bold.ttf");
+}
+@font-face {
+	font-family: "Plane Crash";
+	src: url("../Font/plane crash/Plane Crash.ttf");
+}
+@font-face {
+	font-family: "Lemon/Milk Bold";
+	src: url("../Font/lemon milk/LemonMilkbold.otf");
+}
+@font-face {
+	font-family: "Lemon/Milk";
+	src: url("../Font/lemon milk/LemonMilk.otf");
+}
+@font-face {
+	font-family: "Amateur Slash";
+	src: url("../Font/amateur/Amateur Slash.ttf");
+}
+@font-face {
+	font-family: "Destructive";
+	src: url("../Font/destructive/Destructive.ttf");
+}
+@font-face {
+	font-family: "Open+Sans";
+	src: url("https://fonts.googleapis.com/css?family=Alfa+Slab+One|Open+Sans");	
+}

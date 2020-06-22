@@ -1,0 +1,66 @@
+@media screen and (min-width: 1200px) {
+	.container {
+		max-width: 1366px;
+	}
+}
+@media screen and (max-width: 980px) {
+	.colradiant{
+		padding-right: 15px !important;
+	}
+	.coldire {
+		padding-left: 15px !important;
+	}
+}
+@media screen and (max-width: 414px) {
+	.lblvale {
+		font-size: 12px !important;
+		color: black;
+	}
+	.lbldota {
+		font-size: 40px;
+		line-height: 50px;
+	}
+	.lbldescription {
+		font-size: 15px;
+	}
+	.btnplay {
+		font-size: 13px;
+	}
+	.btnwatch {
+		font-size: 13px;
+	}
+	.colrev2,.colrev3 {
+		margin-top:10px;
+	}
+	.lblHSL {
+		font-size: 25px;
+	}
+	.lblHSLub {
+		font-size: 13px;
+	}
+	.lblHSLdescription {
+		font-size: 15px;
+	}
+	.lblchoose {
+		width: 100% !important;
+	}
+	.colradiant{
+		padding-right: 15px !important;
+	}
+	.coldire {
+		padding-left: 15px !important;
+	}
+	.imgheropedia {
+		margin-top: 10px;
+	}
+	.lblfooter {
+		font-size: 20px;
+	}
+	.lblbattle {
+		font-size: 15px;
+		width: 100%;
+	}
+	#countholder {
+		font-size: 25px;
+	}
+}
